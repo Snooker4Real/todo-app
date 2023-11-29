@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	todoFile = ".todos.json"
+	todoFile = "/home/snooker/Desktop/todo-app/.todos.json"
 )
 
 func main() {
